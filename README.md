@@ -1,3 +1,3 @@
-# Introduction of machine learning and deep learning using PyTorch
+# Introduction of ML and DL using PyTorch
 
 _book_
